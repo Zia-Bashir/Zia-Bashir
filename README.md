@@ -115,4 +115,30 @@ I am passionate about staying at the forefront of technology and continuing to p
 
 📬 **Email:** contact.ziabashir@gmail.com  
 🌐 **GitHub:** [github.com/Zia-Bashir](https://github.com/Zia-Bashir)  
-🌐 **LinkedIn:** [linkedin.com/in/ziabashir](https://linkedin.com/in/ziabashir)  
+🌐 **LinkedIn:** [linkedin.com/in/ziabashir](https://linkedin.com/in/ziabashir) 
+
+
+## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   Github Profile Summary Card:
+<p align="center">
+<img width="65%"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zia-Bashir&theme=tokyonight"/> <img width="32%"   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zia-Bashir&theme=tokyonight"/>
+</p>
+
+
+## <img width="2.5%" src="https://user-images.githubusercontent.com/84827527/225831138-4008b375-edbc-4f66-828b-28e12c6ac25f.png"/>   GitHub Stats:
+
+<p align="center">
+<img width="380p" src="https://github-readme-stats.vercel.app/api?username=Zia-Bashir&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
+<img width="400p" src="https://github-readme-streak-stats.herokuapp.com/?user=Zia-Bashir&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+</p>
+
+# 📟 Language:
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zia-Bashir&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+ </p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+
+
