@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Web+Developer;Building+Scalable+Cross-Platform+Apps;Open+Source+Contributor;🚀+Transforming+Startups+with+Tech;Flutter+Development+Specialist;Mobile+%26+Web+Sorcerer+🧙‍♂️;50K%2B+Users+on+Web+%26+Apps&center=true&width=800&height=45"></h2>
 
 # 🙋‍♂️ About Me
-<img align="right" src="https://media.licdn.com/dms/image/v2/D4E12AQFqgP8d704vYg/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1657270275654?e=1730937600&v=beta&t=UXXvnpCHtpxdey9htKWc2Bit1WTRRl6NrsWUwTTR6O0" height="320"/>
+
 
 🚀 **Transforming Startups with Tech** | Flutter Development Specialist | Mobile & Web Sorcerer 🧙‍♂️ | **50K+ Users on Web & Apps** 
 
