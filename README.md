@@ -4,7 +4,7 @@
          width="40" /> I'm Zia Bashir </h1>
 <h2 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Web+Developer;Building+Scalable+Cross-Platform+Apps;Open+Source+Contributor;🚀+Transforming+Startups+with+Tech;Flutter+Development+Specialist;Mobile+%26+Web+Sorcerer+🧙‍♂️;50K%2B+Users+on+Web+%26+Apps&center=true&width=800&height=45"></h2>
+<img src="https://readme-typing-svg.herokuapp.com?lines=Expert+Flutter+Developer;Mobile+App+Developer;Web+Developer;Building+Scalable+Cross-Platform+Apps;Open+Source+Contributor;🚀+Transforming+Startups+with+Tech;Flutter+Development+Specialist;Mobile+%26+Web+Sorcerer+🧙‍♂️;100K%2B+Users+on+Web+%26+Apps&center=true&width=800&height=45"></h2>
 
 # 🙋‍♂️ About Me
 
