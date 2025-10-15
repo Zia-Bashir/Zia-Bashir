@@ -9,7 +9,7 @@
 # 🙋‍♂️ About Me
 
 
-🚀 **Transforming Startups with Tech** | Flutter Development Specialist | Mobile & Web Sorcerer 🧙‍♂️ | **50K+ Users on Web & Apps** 
+🚀 **Transforming Startups with Tech** | Flutter Development Specialist | Mobile & Web Sorcerer 🧙‍♂️ | **100K+ Users on Web & Apps** 
 
 🚀 **Freelance Mobile App Developer** | Available for your projects
 
